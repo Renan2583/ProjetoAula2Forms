@@ -4,7 +4,7 @@
   "description": "Fazendo um formulário com aplicação web usando node/js",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Renan2583/ProjetoAula2Forms/issues"
   },
-  "homepage": "https://github.com/Renan2583/ProjetoAula2Forms#readme"
+  "homepage": "https://github.com/Renan2583/ProjetoAula2Forms#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
